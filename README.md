@@ -4,7 +4,7 @@
 
 To be updated soon
 
-2- Data Preprocess
+2- Preprocessing
 
 
 
