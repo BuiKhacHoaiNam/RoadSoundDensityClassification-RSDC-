@@ -1,6 +1,6 @@
 # RoadSoundDensityClassification-RSDC-
 
-This study take an investigation on how to apply urban sound classification for the transportation domain
+This study take an investigation on how to apply urban sound classification approach for transportation domain
 
 
 1- Dataset
