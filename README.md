@@ -27,18 +27,17 @@ https://github.com/GorillaBus/urban-audio-classifier
 If you find this repository useful in your research, please cite the following paper:
 
 @inproceedings{BuiOY20,
-  author    = {Khac{-}Hoai Nam Bui and
-               Hyeonjeong Oh and
-               Hongsuk Yi},
+
+  author    = {Khac{-}Hoai Nam Bui and Hyeonjeong Oh and  Hongsuk Yi},
+  
   title     = {Traffic Density Classification Using Sound Datasets: An Empirical
                Study on Traffic Flow at Asymmetric Roads},
+               
   journal   = {{IEEE} Access},
+  
   volume    = {8},
+  
   pages     = {125671--125679},
+  
   year      = {2020},
-  url       = {https://doi.org/10.1109/ACCESS.2020.3007917},
-  doi       = {10.1109/ACCESS.2020.3007917},
-  timestamp = {Fri, 31 Jul 2020 17:06:32 +0200},
-  biburl    = {https://dblp.org/rec/journals/access/BuiOY20.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
