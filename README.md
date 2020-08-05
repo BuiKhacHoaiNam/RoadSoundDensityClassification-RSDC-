@@ -24,9 +24,11 @@ https://github.com/shibuiwilliam/Keras_Sklearn
 https://github.com/GorillaBus/urban-audio-classifier
 
 5- Citation
+
 If you find this repository useful in your research, please cite the following paper:
 
 ```
+@article{BuiOY20,
   author    = {Khac{-}Hoai Nam Bui and Hyeonjeong Oh and  Hongsuk Yi},
   title     = {Traffic Density Classification Using Sound Datasets: An Empirical
                Study on Traffic Flow at Asymmetric Roads},          
