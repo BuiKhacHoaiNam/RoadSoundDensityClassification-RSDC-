@@ -26,7 +26,10 @@ https://github.com/GorillaBus/urban-audio-classifier
 5- Citation
 If you find this repository useful in your research, please cite the following paper:
 
-@inproceedings{BuiOY20,
+```
+git status
+git add
+git @inproceedings{BuiOY20,
 
   author    = {Khac{-}Hoai Nam Bui and Hyeonjeong Oh and  Hongsuk Yi},
   
@@ -41,3 +44,5 @@ If you find this repository useful in your research, please cite the following p
   
   year      = {2020},
 }
+```
+
